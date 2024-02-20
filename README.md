@@ -44,4 +44,4 @@ Questions and answers are stored in the questions.js file.
 
 ## Author
 
-[Serhii Demchenko] (https://github.com/svd-serhii)
+[Serhii Demchenko](https://github.com/svd-serhii)
