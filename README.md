@@ -1,6 +1,6 @@
 # Quiz App
 
-Hello! This is the Quiz App - an application for conducting and answering quizzes. This project is implemented using HTML, CSS, and JavaScript technologies.
+Hello! This is the Quiz App - an application for conducting and answering quizzes. This project is implemented using HTML, CSS, and REACT (JavaScript) technologies.
 
 ## How to Use
 
@@ -22,7 +22,7 @@ npm start
 
 ## Usage
 
-Open your browser and go to http://localhost:5173/quiz-app/
+Open your browser and go to http://localhost:5173/quiz-app/.
 Answer the questions and check your results at the end of each quiz.
 
 ## Development Environment
